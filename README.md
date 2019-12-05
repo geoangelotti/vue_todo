@@ -1,4 +1,4 @@
-# pdts
+# Vue Todo
 
 ## Project setup
 ```
